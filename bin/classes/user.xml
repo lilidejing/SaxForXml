@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+	<user id="1" no="stu001">
+		<username>david</username>
+		<age>18</age>
+		<sex>男</sex>
+		<email>david@qq.com</email>
+		
+	</user>
+</users>

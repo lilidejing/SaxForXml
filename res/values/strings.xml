@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Activity01!</string>
+    <string name="app_name">使用sax解析xml文件</string>
+	<string name="username">用户名</string>
+	<string name="stuNo">学号</string>
+	<string name="age">年龄</string>
+	<string name="sex">性别</string>
+	<string name="email">邮箱</string>
+
+
+</resources>
